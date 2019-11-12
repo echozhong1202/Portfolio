@@ -2,9 +2,9 @@
 
 I am currently pursuing my master of business analytics degree from Simon Business School, University of Rochester - Class of 2020. I aspire to become a data analyst/marketing analyst/business analyst in the technology field to leverage and enhance my professional expertise to bring valuable insights based on data analytics.
 
-### Markdown
+### Introduction
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This is a porfolio page where I applied what I learned in machine learning to some real life project. I am currently still at learning stage. Feel free to let me know if you have any critics or questions. 
 
 ```markdown
 Syntax highlighted code block
