@@ -21,7 +21,7 @@ Kaggle | Udemy: Classify Yelp Reviews with Natural Language Processing using Pyt
 
 **Bold** and _Italic_ and `Code` text
 
-[file:///Users/yuqiaozhong/Downloads/Classify%20Yelp%20Reviews%20into%201%20star%20and%205%20star%20-%20Natural%20Language%20Processing%20using%20Python.html](url) and ![Image](src)
+file:///Users/yuqiaozhong/Downloads/Classify%20Yelp%20Reviews%20into%201%20star%20and%205%20star%20-%20Natural%20Language%20Processing%20using%20Python.html(url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
