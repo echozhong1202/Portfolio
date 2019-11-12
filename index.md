@@ -1,10 +1,6 @@
 ## Yuqiao (Echo) Zhong
 
-You can use the [editor on GitHub](https://github.com/echozhong1202/YuqiaoEchoZhong.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
- 
-Description: I am a business analytics student.
+I am currently pursuing my master of business analytics degree from Simon Business School, University of Rochester - Class of 2020. I aspire to become a data analyst/marketing analyst/business analyst in the technology field to leverage and enhance my professional expertise to bring valuable insights based on data analytics.
 
 ### Markdown
 
