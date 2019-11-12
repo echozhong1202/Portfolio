@@ -9,9 +9,11 @@ This is a porfolio page where I applied what I learned in machine learning to so
 ```markdown
 Kaggle | Udemy: Classify Yelp Reviews with Natural Language Processing using Python 
 
-# Header 1
-## Header 2
-### Header 3
+# My ultimate goal for this project is to predict whether a Yelp review is 1 star or 5 star based on the text content. I took a machine learning course taught by Jose Portilla on Udemy. And now I want to apply what I learned into a new project.
+
+# First I vectorized text messages into a form that machine learning algorithms can understand. Next I train a machine learning model to learn to discriminate between 1 star and 5 star messages. Finally, with the trained model, I will classify the reviews into 1 star or 5 star.
+
+# Dataset Informatiom The yelp review dataset is obtained from Kaggle dataset (https://www.kaggle.com/c/yelp-recsys-2013Each). Each observation in this dataset is a review of a particular business by a particular user. The "stars" column is the number of stars (1 through 5) assigned by the reviewer to the business. (Higher stars is better.) In other words, it is the rating of the business by the person who wrote the review. The "cool" column is the number of "cool" votes this review received from other Yelp users. The "useful" and "funny" columns are similar to the "cool" column.
 
 - Bulleted
 - List
