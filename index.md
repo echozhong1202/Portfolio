@@ -7,7 +7,7 @@ I am currently pursuing my master of business analytics degree from Simon Busine
 This is a porfolio page where I applied what I learned in machine learning to some real life project. I am currently still at learning stage. Feel free to let me know if you have any critics or questions. 
 
 ```markdown
-Syntax highlighted code block
+Kaggle | Udemy: Classify Yelp Reviews with Natural Language Processing using Python 
 
 # Header 1
 ## Header 2
@@ -21,7 +21,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[file:///Users/yuqiaozhong/Downloads/Classify%20Yelp%20Reviews%20into%201%20star%20and%205%20star%20-%20Natural%20Language%20Processing%20using%20Python.html](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
