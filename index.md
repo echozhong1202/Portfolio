@@ -7,7 +7,7 @@ This is a porfolio page where I applied what I learned in data analytics and mac
 
 ## Projects
 
-### Kaggle | Udemy: Classify Yelp Reviews with Natural Language Processing using Python 
+### Kaggle: Classify Yelp Reviews with Natural Language Processing using Python 
 
 **[View Complete Project on Github](https://github.com/echozhong1202/profolio/blob/master/Classify%20Yelp%20Reviews%20into%201%20star%20and%205%20star%20-%20Natural%20Language%20Processing%20using%20Python.ipynb)**
 
