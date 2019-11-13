@@ -15,7 +15,7 @@ This is a porfolio page where I applied what I learned in data analytics and mac
 
 > The yelp review dataset is obtained from Kaggle dataset (https://www.kaggle.com/c/yelp-recsys-2013Each). Each observation in this dataset is a review of a particular business by a particular user. 
 
-> The NLP process in this project is still at the basic level. This project is more about understanding NLP at a higher level.
+> The NLP process in this project is basic. This project is more about understanding NLP at a higher level.
 
 ![notebook preview](try.jpg)
 
