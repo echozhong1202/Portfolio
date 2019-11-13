@@ -6,7 +6,7 @@ I am currently pursuing my master of business analytics degree from Simon Busine
 ## Introduction
 
 This is a porfolio page where I applied what I learned in data analytics and machine learning to some real life projects. I am currently still at learning stage. Feel free to let me know if you have any critics or questions. 
-
+<br />
 
 ## Projects
 
