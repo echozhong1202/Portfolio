@@ -6,7 +6,6 @@ I am currently pursuing my master of business analytics degree from Simon Busine
 
 This is a porfolio page where I applied what I learned in machine learning to some real life project. I am currently still at learning stage. Feel free to let me know if you have any critics or questions. 
 
-```markdown
 Kaggle | Udemy: Classify Yelp Reviews with Natural Language Processing using Python 
 
 # My ultimate goal for this project is to predict whether a Yelp review is 1 star or 5 star based on the text content. I took a machine learning course taught by Jose Portilla on Udemy. And now I want to apply what I learned into a new project.
@@ -23,6 +22,8 @@ Kaggle | Udemy: Classify Yelp Reviews with Natural Language Processing using Pyt
 
 **Bold** and _Italic_ and `Code` text
 [Github](https://github.com/echozhong1202/profolio/blob/master/Classify%20Yelp%20Reviews%20into%201%20star%20and%205%20star%20-%20Natural%20Language%20Processing%20using%20Python.ipynb)
+```markdown
+
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
