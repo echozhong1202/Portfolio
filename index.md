@@ -20,4 +20,15 @@ This is a porfolio page where I applied what I learned in data analytics and mac
 ![notebook preview](try.jpg)
 
 
+### Udemy: Lending.com Applicant Trustworthiness Analysis - Exploratory Data Analysis with Python
+
+**[View Complete Project on Github](https://github.com/echozhong1202/Portfolio/blob/master/Lending.com%20Applicant%20Trustworthiness%20Analysis%20-%20Exploratory%20Data%20Analysis%20using%20Python.ipynb)**
+
+> Lending Club connects people who need money (borrowers) with people who have money (investors). Here we will use Python with some packages like Pandas, Matplotlib and seaborn to analyze a dataset that was collected on lending.com over 2007-2010. The dataset contains data on more than 9000 borrowers and borrowers' features like income, FICO, interest rate, etc.
+
+> We will analyze this data to get insights on the main difference between fully paid borrowers and not fully paid borrowers. These insights might also be used by people in landing.com to better predict whether the borrower will pay in full or not
+
+![notebook preview](lending.jpg)
+
+
 
