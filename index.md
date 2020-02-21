@@ -42,8 +42,9 @@ This is a porfolio page where I applied what I learned in data analytics and mac
 
 ### Credit Risk Prediction Model and Interactive Interface - Predictive Analysis with Python
 
-**[View Complete Project on Github](https://github.com/echozhong1202/Portfolio/blob/master/Credit%20Risk%20Prediction%20Model%20and%20Interactive%20Interface.ipynb)**
-**[View Project Summary PDF on Github](https://github.com/echozhong1202/Portfolio/blob/master/Credit%20Risk%20Prediction%20Model%20and%20Interactive%20Interface.ipynb)**
+**[View Project Summary PDF on Github](https://github.com/echozhong1202/Portfolio/blob/master/Case%203%20Report%20-%20team%2024%20(1).pdf)**
+
+**[View Complete Project in R on Github](https://github.com/echozhong1202/Portfolio/blob/master/Credit%20Risk%20Prediction%20Model%20and%20Interactive%20Interface.ipynb)**
 
 > For this academic project, we conducted a conjoint analysis for a relatively small toy company, EarlyRiders, that specializes in the manufacture of quality toy riding horses with a particular focus on natural materials.
 EarlyRiders had a recent management change and realized that their product set was underperforming. They currently offer two products and one in particular was not doing well. The management team decided after much deliberation to revitalize their product portfolio based on the opinions of potential end-users. For this purpose, the company ran a conjoint analysis and our team analyzed the data and created a presentation to give recommendation on what products to launch next.
