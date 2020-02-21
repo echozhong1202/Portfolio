@@ -1,13 +1,6 @@
 ## Projects
 
 ---
-### Yuqiao (Echo) Zhong
-
-I am currently pursuing my master of business analytics degree from Simon Business School, University of Rochester - Class of 2020. 
-I aspire to become a data analyst/marketing analyst/business analyst in the technology field to leverage and enhance my professional expertise to bring valuable insights based on data analytics.
-This is a porfolio page where I applied what I learned in data analytics and machine learning to some real life projects. 
-
----
 
 ### New Product Launch Recommendation for EarlyRiders (Toyhorse Manufacture) - Conjoint Analysis and Market Simulation with R
 
