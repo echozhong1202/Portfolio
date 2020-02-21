@@ -40,8 +40,7 @@ This is a porfolio page where I applied what I learned in data analytics and mac
 ![notebook preview](credit.png)
 
 
-### Credit Risk Prediction Model and Interactive Interface - Predictive Analysis with Python
-
+### New Product Launch Recommendation for EarlyRiders (Toyhorse Manufacture) - Conjoint Analysis and Market Simulation with R
 **[View Project Summary PDF on Github](https://github.com/echozhong1202/Portfolio/blob/master/Case%203%20Report%20-%20team%2024%20(1).pdf)**
 
 **[View Complete Project in R on Github](https://github.com/echozhong1202/Portfolio/blob/master/Analyze-Toy-Horse-Conjoint-Experiment-with-R.html)**
