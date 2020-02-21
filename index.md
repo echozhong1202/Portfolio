@@ -2,33 +2,52 @@
 
 ---
 
-### Category Name 1 
+### New Product Launch Recommendation for EarlyRiders (Toyhorse Manufacture) - Conjoint Analysis and Market Simulation with R
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+**[View Project Summary PDF on Github](https://github.com/echozhong1202/Portfolio/blob/master/Case%203%20Report%20-%20team%2024%20(1).pdf)**
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+**[View Complete Project in R on Github](https://github.com/echozhong1202/Portfolio/blob/master/Analyze-Toy-Horse-Conjoint-Experiment-with-R.html)**
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+> For this academic project, we conducted a conjoint analysis for a relatively small toy company, EarlyRiders, that specializes in the manufacture of quality toy riding horses with a particular focus on natural materials.
+EarlyRiders had a recent management change and realized that their product set was underperforming. They currently offer two products and one in particular was not doing well. The management team decided after much deliberation to revitalize their product portfolio based on the opinions of potential end-users. For this purpose, the company ran a conjoint analysis and our team analyzed the data and created a presentation to give recommendation on what products to launch next.
 
----
 
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+![notebook preview](toyhorse.png)
+![notebook preview](toyhorse1.png)
 
 ---
 
+### Credit Risk Prediction Model and Interactive Interface - Predictive Analysis with Python
 
+**[View Complete Project on Github](https://github.com/echozhong1202/Portfolio/blob/master/Credit%20Risk%20Prediction%20Model%20and%20Interactive%20Interface.ipynb)**
 
+> Our goal for this project is to develop a predictive model and a decision support system (DSS) that evaluates the risk of Home Equity Line of Credit (HELOC) applications. Ultimately, the decision support system, which is essentially an interactive interface, is able to give understandable explanations for sales representatives in a bank/credit card company. Even without coding experience, they can easily use the system to decide on accepting or rejecting applications.
+
+---
+
+### Udemy: Lending.com Applicant Trustworthiness Analysis - Exploratory Data Analysis with Python
+
+**[View Complete Project on Github](https://github.com/echozhong1202/Portfolio/blob/master/Lending.com%20Applicant%20Trustworthiness%20Analysis%20-%20Exploratory%20Data%20Analysis%20using%20Python.ipynb)**
+
+> Lending Club connects people who need money (borrowers) with people who have money (investors). Here we will use Python with some packages like Pandas, Matplotlib and seaborn to analyze a dataset that was collected on lending.com over 2007-2010. The dataset contains data on more than 9000 borrowers and borrowers' features like income, FICO, interest rate, etc.
+
+> We will analyze this data to get insights on the main difference between fully paid borrowers and not fully paid borrowers. These insights might also be used by people in landing.com to better predict whether the borrower will pay in full or not
+
+![notebook preview](lending.jpg)
+
+---
+
+### Kaggle: Classify Yelp Reviews with Natural Language Processing using Python 
+
+**[View Complete Project on Github](https://github.com/echozhong1202/profolio/blob/master/Classify%20Yelp%20Reviews%20into%201%20star%20and%205%20star%20-%20Natural%20Language%20Processing%20using%20Python.ipynb)**
+
+> My ultimate goal for this project is to predict whether a Yelp review is 1 star or 5 star based on the text content. I took a machine learning course taught by Jose Portilla on Udemy. And now I want to apply what I learned into a new project.
+
+> The yelp review dataset is obtained from Kaggle dataset (https://www.kaggle.com/c/yelp-recsys-2013Each). Each observation in this dataset is a review of a particular business by a particular user. 
+
+> The NLP process in this project is basic. This project is more about understanding NLP at a higher level.
+
+![notebook preview](try.jpg)
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
