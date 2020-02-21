@@ -32,7 +32,7 @@ This is a porfolio page where I applied what I learned in data analytics and mac
 
 ### Credit Risk Prediction Model and Interactive Interface - Predictive Analysis with Python
 
-**[View Complete Project on Github](https://github.com/echozhong1202/Portfolio/blob/master/Lending.com%20Applicant%20Trustworthiness%20Analysis%20-%20Exploratory%20Data%20Analysis%20using%20Python.ipynb)**
+**[View Complete Project on Github](https://github.com/echozhong1202/Portfolio/blob/master/Credit%20Risk%20Prediction%20Model%20and%20Interactive%20Interface.ipynb)**
 
 > Our goal for this project is to develop a predictive model and a decision support system (DSS) that evaluates the risk of Home Equity Line of Credit (HELOC) applications. Ultimately, the decision support system, which is essentially an interactive interface, is able to give understandable explanations for sales representatives in a bank/credit card company. Even without coding experience, they can easily use the system to decide on accepting or rejecting applications.
 
