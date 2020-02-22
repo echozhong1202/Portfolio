@@ -24,6 +24,7 @@ EarlyRiders had a recent management change and realized that their product set w
 > Our goal for this project is to develop a predictive model and a decision support system (DSS) that evaluates the risk of Home Equity Line of Credit (HELOC) applications. Ultimately, the decision support system, which is essentially an interactive interface, is able to give understandable explanations for sales representatives in a bank/credit card company. Even without coding experience, they can easily use the system to decide on accepting or rejecting applications.
 
 ![notebook preview](credit.png)
+
 ---
 
 ### Udemy: Lending.com Applicant Trustworthiness Analysis - Exploratory Data Analysis with Python
