@@ -10,7 +10,7 @@
 
 > Recently, the first thing most of us do in the morning is to check the news on coronavirus that originated in Wuhan, China. It's been a month, but coronavirus is still spreading,  people are dying, and doctors are fighting at the frontline. We all wonder if things are getting better now. 
 
-Inspired by Micheal (Sifeng) Zhu's informational Tableau workbook on coronavirus, I extracted data from National Health Committee and worked on a Tableau dashboard that answers the question 'Is coronavirus outbreak under control?' in 4 perspectives. 
+> Inspired by Micheal (Sifeng) Zhu's informational Tableau workbook on coronavirus, I extracted data from National Health Committee and worked on a Tableau dashboard that answers the question 'Is coronavirus outbreak under control?' in 4 perspectives. 
 
 
 ![notebook preview](WechatIMG60.png)
