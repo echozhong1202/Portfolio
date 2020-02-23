@@ -2,10 +2,9 @@
 
 ---
 
-
 ### Is Coronavirus Outbreak Under Control Now? - Data Visualization with Tableau
 
-**[Download Tableau Packaged Workbook on Github](https://github.com/echozhong1202/Portfolio/blob/master/Case%203%20Report%20-%20team%2024%20(1).pdf)**
+**[Download Tableau Packaged Workbook on Github](https://github.com/echozhong1202/Portfolio/blob/master/coronavirun%20case.twbx)**
 
 **[View in Tableau Public](https://public.tableau.com/profile/yuqiao.zhong#!/vizhome/virus_15824131497090/Hasitgonebetter?publish=yes)**
 
@@ -14,8 +13,7 @@
 Inspired by Micheal (Sifeng) Zhu's informational Tableau workbook on coronavirus, I extracted data from National Health Committee and worked on a Tableau dashboard that answers the question 'Is coronavirus outbreak under control?' in 4 perspectives. 
 
 
-![notebook preview](WECHAT_.png)
-
+![notebook preview](WechatIMG60.png)
 
 ---
 
