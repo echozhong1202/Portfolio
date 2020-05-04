@@ -12,7 +12,7 @@
 > For this project, we conducted descriptive statistics on yield patterns and trends across products, starting widths, operations/production pathover time. We also ran predictive analysis that allow client to predict yield by alloy and cast width combination, as well as other main drivers for predicting yield. 
 
 
-![notebook preview](aurubis screenshot.png)
+![notebook preview](aurubis.png)
 
 ---
 
