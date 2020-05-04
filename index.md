@@ -1,6 +1,20 @@
 ## Projects
 
 
+### Production Cost Optimization  - Descriptive and Predictive Analysis with Python
+
+**[View Complete Project on Github](https://github.com/echozhong1202/Portfolio/blob/master/Aurubis%20Yield%20Prediction%20Project_v2.ipynb)**
+
+> Our client is a manufacturing operation that produces copper and brass strip for use in diverse industries. Our client collects data from all of its processes, both manufacturing and administrative. Data is stored on several platforms throughout the organization including Oracle, SQL Server and DB2. For this project, our goal is to help the client predict yield and improve yield.
+
+> "Yield" quantifies the percentage of a product's cast (starting) weight that is converted into a finished product to be shipped to the customer. Improving yield, along with improving the accuracy of predicted (or "standard") yield, has a positive impact on scheduling efficiency, customer on-time delivery performance as well as the potential to lower production cost and inventory in the plant.
+
+> For this project, we conducted descriptive statistics on yield patterns and trends across products, starting widths, operations/production pathover time. We also ran predictive analysis that allow client to predict yield by alloy and cast width combination, as well as other main drivers for predicting yield. 
+
+
+![notebook preview](aurubis screenshot)
+
+---
 
 ### Is Coronavirus Outbreak Under Control Now? - Data Visualization with Tableau
 
