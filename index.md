@@ -15,6 +15,16 @@
 ![notebook preview](aurubis.png)
 
 ---
+
+### Sample Superstore Sales Analytics - Data Visualization with Tableau
+
+> The goal of this project is to explore the sales trend and performance in different dimensions for a sample superstore data: regions, categories, segments, and customers (new vs. existing customer). Views can choose the region, states, date, category in the top right session. 
+
+**[View in Tableau Public](https://public.tableau.com/profile/yuqiao.zhong#!/vizhome/SampleSuperstore-SalesAnalytics/Dashboard1?publish=yes)**
+
+![notebook preview](WechatIMG136.png)
+
+---
 ### Exploring Canada Bankruptcies and Proposals in 2014 - Data Visualization with Tableau
 
 **[View in Tableau Public](https://public.tableau.com/profile/yuqiao.zhong#!/vizhome/CanadaInsolvencies_15895158997600/Dashboard?publish=yes)**
