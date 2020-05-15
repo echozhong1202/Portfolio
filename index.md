@@ -18,9 +18,7 @@
 
 ### Is Coronavirus Outbreak Under Control Now? - Data Visualization with Tableau
 
-**[Download Tableau Packaged Workbook on Github](https://github.com/echozhong1202/Portfolio/blob/master/coronavirun%20case.twbx)**
-
-**[View in Tableau Public](https://public.tableau.com/profile/yuqiao.zhong#!/vizhome/virus_15824131497090/Hasitgonebetter?publish=yes)**
+**[View in Tableau Public](https://public.tableau.com/profile/yuqiao.zhong#!/vizhome/Covid19Analysis_15895058979080/Dashboard1?publish=yes)**
 
 > Recently, the first thing most of us do in the morning is to check the news on coronavirus that originated in Wuhan, China. It's been a month, but coronavirus is still spreading,  people are dying, and doctors are fighting at the frontline. We all wonder if things are getting better now. 
 
