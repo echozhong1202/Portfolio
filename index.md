@@ -17,8 +17,7 @@
 ---
 ### Exploring Canada Bankruptcies and Proposals in 2014 - Data Visualization with Tableau
 
-**[View in Tableau Public]
-(https://public.tableau.com/profile/yuqiao.zhong#!/vizhome/CanadaInsolvencies_15895158997600/Dashboard?publish=yes)**
+**[View in Tableau Public](https://public.tableau.com/profile/yuqiao.zhong#!/vizhome/CanadaInsolvencies_15895158997600/Dashboard?publish=yes)**
 
 ![notebook preview](WechatIMG132.png)
 
